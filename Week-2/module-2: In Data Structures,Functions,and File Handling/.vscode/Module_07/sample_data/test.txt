@@ -1,4 +1,2 @@
-Second attempt
-learning is going fast.
-The learning of AI/ML is fun
-I am enjoying the classes
+Hello test file
+How is learning going on ?
