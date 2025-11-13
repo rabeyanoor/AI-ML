@@ -1,2 +1,0 @@
-pixel =int( input().split())
-

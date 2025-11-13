@@ -1,3 +1,0 @@
-total line: 2
- total number of word:8
- total number of char:38
