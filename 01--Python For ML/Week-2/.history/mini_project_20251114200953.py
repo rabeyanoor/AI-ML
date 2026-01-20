@@ -1,4 +1,0 @@
-class Account :
-    bank_name="Phitron Bank"
-
-    def __init__(self,name,account_no)
