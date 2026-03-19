@@ -1,0 +1,8 @@
+x=input().split()
+
+count_A= x.count('A')
+count_B=x.count('B')
+
+total=len(x)
+
+
